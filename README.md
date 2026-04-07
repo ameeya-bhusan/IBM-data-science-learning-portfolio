@@ -3,7 +3,7 @@
 This repository documents my completion of the IBM Data Science Professional Certificate on Coursera, along with structured notes and reflections on key concepts.
 
 ## 📄 Certificate
-- [View Certificate](certificates/ibm-data-science.pdf)
+- [View Certificate](what-is-data-science/certificate.pdf)
 
 ## 📚 Topics Covered
 - What is data science?
