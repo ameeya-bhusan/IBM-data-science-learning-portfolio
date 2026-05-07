@@ -6,7 +6,7 @@ This repository documents my completion of the IBM Data Science Professional Cer
 - What is data science? [View Certificate](what-is-data-science/certificate.pdf)
 - Tools for data science [View Certificate](Tools-for-data-science/Certificate.pdf)
 - Data science methodology [View Certificate](data-science-methodology/Certificate.pdf)
-- Python for Data Science, AI and development
+- Python for Data Science, AI and development [View Certificate](python-for-DS-AI/Coursera S5UFFU68L2R0.pdf)
 - Python Project for Data Science
 - Databases and SQL for Data Science with Python
 - Data Analysis with Python
